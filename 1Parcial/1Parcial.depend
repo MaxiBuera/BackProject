@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1538350214 source:/home/alumno/Escritorio/1Parcial/1Parcial/utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+
+1538350214 /home/alumno/Escritorio/1Parcial/1Parcial/utn.h
+
+1538701311 source:/home/alumno/Escritorio/1Parcial/1Parcial/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+	"cliente.h"
+	"venta.h"
+
+1538690355 /home/alumno/Escritorio/1Parcial/1Parcial/cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"cliente.h"
+
+1538696589 /home/alumno/Escritorio/1Parcial/1Parcial/cliente.h
+
+1538699479 source:/home/alumno/Escritorio/1Parcial/1Parcial/cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"cliente.h"
+
+1538701095 /home/alumno/Escritorio/1Parcial/1Parcial/venta.h
+
+1538701504 source:/home/alumno/Escritorio/1Parcial/1Parcial/venta.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"utn.h"
+	"cliente.h"
+	"venta.h"
+
