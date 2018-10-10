@@ -1,6 +1,0 @@
-#ifndef VENTAS_C_INCLUDED
-#define VENTAS_C_INCLUDED
-
-
-
-#endif // VENTAS_C_INCLUDED
